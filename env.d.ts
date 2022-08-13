@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    // Replace `astro/client` with `@astrojs/image/client`
+    "types": ["@astrojs/image/client"]
+  }
+}
